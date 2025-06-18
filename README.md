@@ -1,8 +1,37 @@
-# React + Vite
+# 🚀 Hoster – Landing Page with Tailwind CSS & React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Hoster** is a simple and responsive landing page created as part of my journey to learn **Tailwind CSS** and build **reusable React components**. It serves as a great starting point for hosting or SaaS-style product websites.
 
-Currently, two official plugins are available:
+📂 **Live Link**: [Click here to visit hoster](https://hoister.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✨ Features
+
+- ⚛️ Built with React functional components  
+- 🎨 Styled using Tailwind CSS utility classes  
+- ♻️ Reusable and clean component structure  
+- 🌐 Responsive design for all devices  
+- 🧠 Minimal, modern layout for practice and experimentation
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** – UI building with JSX and hooks  
+- **Tailwind CSS** – Utility-first CSS framework  
+- **HTML5** – Semantic page structure  
+- **CSS3** – Additional styling as needed
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/ar-AryanRai/hoster.git
+cd hoster
+npm install
+npm run dev
+```
