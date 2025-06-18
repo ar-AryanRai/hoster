@@ -2,7 +2,7 @@
 
 **Hoster** is a simple and responsive landing page created as part of my journey to learn **Tailwind CSS** and build **reusable React components**. It serves as a great starting point for hosting or SaaS-style product websites.
 
-📂 **Live Link**: [Click here to visit hoster](https://hoister.netlify.app/)
+📂 **Live Link**: [Click here to visit hoster (Landing page)](https://hoister.netlify.app/)
 
 ---
 
